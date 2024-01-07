@@ -10,5 +10,5 @@ I love learning new technologies and building scalable products.
 *   🖥️  See my profile at [stackoverflow](http://stackoverflow.com/users/1750604/gurpreet-singh)
 *   ✉️  You can contact me at [gsran82@gmail.com](mailto:gsran82@gmail.com)
 *   🚀  Check out my [portfolio](http://gurpreetsran.github.io/gs/#/home)
-*   🧠  I'm very interested and learning Web3, Kubernetes AI & ML.
+*   🧠  I'm interested and learning Web3, Kubernetes AI & ML.
 *   🤝  I'm open to collaborating on Web3, AI/ML integration
