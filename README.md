@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gurpreet Singh
+======================================================================================================================================
 
-<!--
-**GurpreetSran/GurpreetSran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
+-----------------
 
-Here are some ideas to get you started:
+I love learning new technologies and building scalable products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in London
+*   🖥️  See my portfolio at [stackoverflow](http://stackoverflow.com/users/1750604/gurpreet-singh)
+*   ✉️  You can contact me at [gsran82@gmail.com](mailto:gsran82@gmail.com)
+*   🚀  I'm currently working on [portfolio](http://gurpreetsran.github.io/gs/#/home)
+*   🧠  I'm learning Web3, Kubernetes AI & ML.
+*   🤝  I'm open to collaborating on Web3, AI/ML integration
